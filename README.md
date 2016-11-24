@@ -12,11 +12,17 @@ Template para sus proyectos.
   Huarike es un app que te permite buscar locales en mapa, registar un nuevo huarike, calificar , comentar y compartir con tus amigos.
   
   Funcionalidades :
+  
     - Autenticación
+    
     - Registro de usuario
+    
     - Mostrar locales en mapa
+    
     - Registro de Huarike
+    
     - Calificación y comentarios.
+    
     - Buscar Huarike
     
 ## Base de Datos 
