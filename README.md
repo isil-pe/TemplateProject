@@ -41,3 +41,6 @@ String email | String lng |
 
 ## Diagrama 
 
+![](https://github.com/isil-pe/TemplateProject/blob/master/wireframe.PNG)
+
+
